@@ -1,0 +1,4 @@
+Verilmis ededin reqemlerinin hasilini tapin.
+Verilmis ededin sade ve ya murekkeb oldugunu tapan alqoritm.
+Verilmis ededin faktorialini tapin.
+Verilmiş ədədin polindrom olub olmadığını tapan alqoritm (Meselen: 1221 -> polindrom, 1231 -> polindrom deyil) (optional)
