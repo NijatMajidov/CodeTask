@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.exe
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.deps.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.runtimeconfig.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.AssemblyInfo.cs
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.sourcelink.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\refint\arrayTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.genruntimeconfig.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Array\arrayTask3\arrayTask3\obj\Debug\net8.0\ref\arrayTask3.dll

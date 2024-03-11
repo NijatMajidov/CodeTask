@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Array\\arrayTask3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6FE6-92A2-481B-9CA1-58743FDB25C5}|arrayTask3\\arrayTask3.csproj|c:\\users\\user\\desktop\\codeacademytask\\taskc#\\array\\arraytask3\\arraytask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6FE6-92A2-481B-9CA1-58743FDB25C5}|arrayTask3\\arrayTask3.csproj|solutionrelative:arraytask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Array\\arrayTask3\\arrayTask3\\Program.cs",
+              "RelativeDocumentMoniker": "arrayTask3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Array\\arrayTask3\\arrayTask3\\Program.cs",
+              "RelativeToolTip": "arrayTask3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:24:47.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
