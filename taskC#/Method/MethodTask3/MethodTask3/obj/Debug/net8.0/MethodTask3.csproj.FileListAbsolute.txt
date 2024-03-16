@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\bin\Debug\net8.0\MethodTask3.exe
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\bin\Debug\net8.0\MethodTask3.deps.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\bin\Debug\net8.0\MethodTask3.runtimeconfig.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\bin\Debug\net8.0\MethodTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\bin\Debug\net8.0\MethodTask3.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.AssemblyInfo.cs
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.sourcelink.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\refint\MethodTask3.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\MethodTask3.genruntimeconfig.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask3\MethodTask3\obj\Debug\net8.0\ref\MethodTask3.dll

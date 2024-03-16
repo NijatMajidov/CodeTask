@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Method\\MethodTask3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A704A7-3934-4036-A34F-D467F8668841}|MethodTask3\\MethodTask3.csproj|c:\\users\\user\\desktop\\codeacademytask\\taskc#\\method\\methodtask3\\methodtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A704A7-3934-4036-A34F-D467F8668841}|MethodTask3\\MethodTask3.csproj|solutionrelative:methodtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Method\\MethodTask3\\MethodTask3\\Program.cs",
+              "RelativeDocumentMoniker": "MethodTask3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\codeAcademyTask\\taskC#\\Method\\MethodTask3\\MethodTask3\\Program.cs",
+              "RelativeToolTip": "MethodTask3\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:14:24.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

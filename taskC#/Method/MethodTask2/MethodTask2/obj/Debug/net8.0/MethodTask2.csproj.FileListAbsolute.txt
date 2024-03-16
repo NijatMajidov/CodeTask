@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.AssemblyInfo.cs
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.sourcelink.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\bin\Debug\net8.0\MethodTask2.exe
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\bin\Debug\net8.0\MethodTask2.deps.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\bin\Debug\net8.0\MethodTask2.runtimeconfig.json
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\bin\Debug\net8.0\MethodTask2.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\bin\Debug\net8.0\MethodTask2.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\refint\MethodTask2.dll
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.pdb
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\MethodTask2.genruntimeconfig.cache
+C:\Users\user\Desktop\codeAcademyTask\taskC#\Method\MethodTask2\MethodTask2\obj\Debug\net8.0\ref\MethodTask2.dll
