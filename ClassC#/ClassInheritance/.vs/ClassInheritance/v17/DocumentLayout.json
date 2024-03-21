@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\codeAcademyTask\\ClassC#\\ClassInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C0CAC0-50FB-46B4-BC44-4597764B3CE1}|ClassInheritance\\ClassInheritance.csproj|c:\\users\\user\\desktop\\codeacademytask\\classc#\\classinheritance\\classinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C0CAC0-50FB-46B4-BC44-4597764B3CE1}|ClassInheritance\\ClassInheritance.csproj|solutionrelative:classinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\codeAcademyTask\\ClassC#\\ClassInheritance\\ClassInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ClassInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\codeAcademyTask\\ClassC#\\ClassInheritance\\ClassInheritance\\Program.cs",
+              "RelativeToolTip": "ClassInheritance\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:14:21.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
