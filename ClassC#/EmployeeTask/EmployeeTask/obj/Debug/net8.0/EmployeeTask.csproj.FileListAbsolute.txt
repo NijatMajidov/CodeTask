@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\bin\Debug\net8.0\EmployeeTask.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\bin\Debug\net8.0\EmployeeTask.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\bin\Debug\net8.0\EmployeeTask.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\bin\Debug\net8.0\EmployeeTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\bin\Debug\net8.0\EmployeeTask.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\refint\EmployeeTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\EmployeeTask.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EmployeeTask\EmployeeTask\obj\Debug\net8.0\ref\EmployeeTask.dll
