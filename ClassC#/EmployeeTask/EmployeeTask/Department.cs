@@ -21,6 +21,10 @@ namespace ClassTask
         #region ShowEmployeeInfo
         public void ShowEmployeeInfo()
         {
+            if( Employees.Length ==0 ) 
+            {
+                Console.WriteLine("Siyahi bosdur!");
+            }
             for (int i = 0; i < Employees.Length; i++)
             {
                 Console.WriteLine(Employees[i].GetEmployeeInfo());
