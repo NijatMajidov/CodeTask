@@ -22,6 +22,7 @@ namespace ClassTask
             DepartmentName = departmentName;
             Salary = salary;
         }
+
         #region ShowEmployeeInfo
         public void ShowEmployeeInfo()
         {

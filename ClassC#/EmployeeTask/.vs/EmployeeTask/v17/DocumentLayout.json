@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|solutionrelative:employeetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\employeetask\\employeetask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|solutionrelative:employeetask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\employeetask\\employeetask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|solutionrelative:employeetask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\employeetask\\employeetask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713D3C16-D92E-4CC0-BB02-1F95C2E0D822}|EmployeeTask\\EmployeeTask.csproj|solutionrelative:employeetask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EmployeeTask\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\EmployeeTask\\EmployeeTask\\Program.cs",
               "RelativeToolTip": "EmployeeTask\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAkwEMAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T17:40:27.541Z",
               "IsPinned": true,
@@ -40,26 +40,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\EmployeeTask\\EmployeeTask\\Department.cs",
               "RelativeDocumentMoniker": "EmployeeTask\\Department.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\EmployeeTask\\EmployeeTask\\Department.cs",
               "RelativeToolTip": "EmployeeTask\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T17:47:43.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\EmployeeTask\\EmployeeTask\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeTask\\Employee.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\EmployeeTask\\EmployeeTask\\Employee.cs",
               "RelativeToolTip": "EmployeeTask\\Employee.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T17:41:12.606Z",
               "EditorCaption": ""

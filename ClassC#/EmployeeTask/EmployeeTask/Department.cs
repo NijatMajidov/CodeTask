@@ -33,18 +33,21 @@ namespace ClassTask
         {
             return Employees;
         }
-
         #endregion
 
         #region GetAllEmployeesBySalary
         public void GetAllEmployeesBySalary(int minSalary = 0, int maxSalary = int.MaxValue)
         {
+            byte count = 0;
             for (int i = 0; i < Employees.Length; i++)
             {
                 if (Employees[i].Salary >= minSalary && Employees[i].Salary <= maxSalary)
+                {
+                    count++;
                     Console.WriteLine(Employees[i].GetEmployeeInfo());
+                }
             }
-
+            if(count == 0) Console.WriteLine("Bu maas araliginda isci tapilmadi!"); 
         }
         #endregion
 
