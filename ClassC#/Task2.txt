@@ -1,0 +1,29 @@
+Class, Encapsulation
+Yusif Osmanov
+•
+Yesterday
+Homework
+•
+100 points
+28.03 11:59 PM
+Product class
+Price -> (encapsulation)
+Count -> (encapsulation)
+No
+Name
+
+Book class
+===========
+string Genre
+Book classi Productdan miras alir. Book yaratmaq istedikde butun deyerleri daxil edilmeden (no, price, name, genre) yaradila bilmesin.
+ShowInfo() - kitabin butun melumatlarini ekranda gosterir
+
+Library class
+=============
+Book[] Books;
+
+void AddBook(Book book) - Book tipinden book qebul edir parameter olaraq ve onu
+Books arrayine elave edir.
+GetFilteredBooks(string genre) -> janr deyeri daxil edib hemin janra uygun kitablarin siyahisini geriye qaytarir.
+GetFilteredBooks(int minPrice, int maxPrice) -> minimum qiymet ve maksimum qiymet qebul edib bu qiymet araligindaki kitablarin siyahisini geriye qaytarir.
+void ShowAllBooks() - Books arrarindeki kitablari gosterir

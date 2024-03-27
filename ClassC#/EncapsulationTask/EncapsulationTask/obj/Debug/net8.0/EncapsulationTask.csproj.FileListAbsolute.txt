@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\bin\Debug\net8.0\EncapsulationTask.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\bin\Debug\net8.0\EncapsulationTask.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\bin\Debug\net8.0\EncapsulationTask.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\bin\Debug\net8.0\EncapsulationTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\bin\Debug\net8.0\EncapsulationTask.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\refint\EncapsulationTask.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\EncapsulationTask.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\EncapsulationTask\EncapsulationTask\obj\Debug\net8.0\ref\EncapsulationTask.dll
