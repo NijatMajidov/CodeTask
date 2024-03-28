@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\bin\Debug\net8.0\StringMethods.exe
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\bin\Debug\net8.0\StringMethods.deps.json
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\bin\Debug\net8.0\StringMethods.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\bin\Debug\net8.0\StringMethods.dll
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\bin\Debug\net8.0\StringMethods.pdb
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.sourcelink.json
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.dll
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\refint\StringMethods.dll
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.pdb
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\StringMethods.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\Methods\StringMethods\StringMethods\obj\Debug\net8.0\ref\StringMethods.dll
