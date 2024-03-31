@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arrayTask4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721209d55a3cbd05fc9df2ed43a423c17d080817")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a61b021df8c60c8d2818e674dbf4e128251bbc0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("arrayTask4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arrayTask4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

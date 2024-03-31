@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string str1 = "   Salam,   Dunya    lorem";
+            string str1 = "   Salam,   Dunya";
             DelUnneededSpace(str1); //Salam, Dunya lorem
 
             string str2 = "sAlam123";
