@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\refint\AccessModifiers.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\ref\AccessModifiers.dll
