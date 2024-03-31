@@ -15,15 +15,12 @@ namespace AccessModifiers
         public Student(string fullName)
         {
             FullName = fullName;
-            
-            Console.WriteLine("Student yarandi");
         }
 
         public Student(string fullName, double point):this(fullName) 
         {
             AvgPoint = point;
-            
-            
+            Console.WriteLine("Student yaradildi");
         }
 
         public void ShowInfo() 
