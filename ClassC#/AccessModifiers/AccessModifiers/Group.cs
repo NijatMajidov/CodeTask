@@ -10,7 +10,7 @@ namespace AccessModifiers
     internal class Group
     {
         private string _no;
-        public string No { get; set; }
+        public static string No { get; set; }
 
         public Student[] Students = new Student[0];
 
@@ -26,9 +26,9 @@ namespace AccessModifiers
             get {  return _studentLimit; }
             set
             {
-                 if (value > 0 && value <= 20)
-                     _studentLimit = value;
-                 else
+                if (value > 0 && value <= 20)
+                    _studentLimit = value;
+                else
                     _studentLimit = -1;
             }
         }
@@ -51,26 +51,12 @@ namespace AccessModifiers
 
         public void FilteredGroup(string searchWord) 
         {
-            bool check = true;
             for (int i = 0; i < Students.Length; i++)
             {
-                if (searchWord.Length > Students[i].FullName.Length)
-                    Console.WriteLine("\nAxtarilan soz yoxdur");
-
-                for (int j = 0; j < searchWord.Length; j++)
-                {
-                    if (Students[i].FullName[j] != searchWord[j])
-                    {
-                        check = false;
-                        break;
-                    }
-                }
-
-                if (check)
+                if (Students[i].FullName == searchWord) 
                 {
                     Students[i].ShowInfo();
-                }
-
+                }      
             }
         }
     }

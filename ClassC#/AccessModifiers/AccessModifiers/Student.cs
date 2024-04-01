@@ -14,13 +14,14 @@ namespace AccessModifiers
 
         public Student(string fullName)
         {
-            FullName = fullName;
+            FullName = fullName; 
         }
 
         public Student(string fullName, double point):this(fullName) 
         {
             AvgPoint = point;
-            Console.WriteLine("Student yaradildi");
+            GroupNo = Group.No;
+            Console.WriteLine("\nStudent yaradildi");
         }
 
         public void ShowInfo() 

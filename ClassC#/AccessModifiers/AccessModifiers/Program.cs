@@ -7,11 +7,11 @@ namespace AccessModifiers
         static void Main(string[] args)
         {
             Console.WriteLine("Yeni grup yaratmaq ucun melumatlari daxil edin!");
-            
+
             string no;
             do
             {
-                Console.WriteLine("Grup No: (2 boyuk herf ve 3 reqem daxil edin)");
+                Console.WriteLine("\nGrup No: (2 boyuk herf ve 3 reqem daxil edin)");
                 no = Console.ReadLine();
 
             } while (!ValidGroupNo(no));
@@ -19,7 +19,7 @@ namespace AccessModifiers
             sbyte limit;
             do
             {
-                Console.WriteLine("Grupun telebe limit sayini daxil edin ( 0 - 20 )");
+                Console.WriteLine("\nGrupun telebe limit sayini daxil edin ( 0 - 20 )");
             } while (!(sbyte.TryParse(Console.ReadLine(), out limit) && (limit >= 0 && limit<21)));
 
             Group group = new Group(no,limit);
@@ -34,7 +34,7 @@ namespace AccessModifiers
                     "\n    2. Bütün telebelere bax" +
                     "\n    3. Telebeler üzre axtarış et" +
                     "\n    0. Proqramı bitir\n"+
-                    "\n|-------------------------------------------------------------|");
+                    "\n|-------------------------------------------------------------|\n");
 
                 choice = Console.ReadLine();
 
@@ -43,18 +43,18 @@ namespace AccessModifiers
                     case "1":
                         if (group.Students.Length != limit)
                         { 
-                        Console.WriteLine("Yeni telebe yaratmaq ucun melumatlarini daxil edin:");
-                        
-                        string fullName = Console.ReadLine();
+                            Console.WriteLine("Yeni telebe yaratmaq ucun melumatlarini daxil edin:");
 
-                        double avgPoint;
-                        do
-                        {
-                            Console.WriteLine("Telebenin ortalamasi: ");
-                        } while (!(double.TryParse(Console.ReadLine(), out avgPoint) && (avgPoint >= 0 && avgPoint<=100)));
+                            string fullName = Console.ReadLine();
 
-                        Student student = new Student(fullName,avgPoint);
-                        group.AddStudent(student);
+                            double avgPoint;
+                            do
+                            {
+                                Console.WriteLine("Telebenin ortalamasi: ");
+                            } while (!(double.TryParse(Console.ReadLine(), out avgPoint) && (avgPoint >= 0 && avgPoint <= 100)));
+
+                            Student student = new Student(fullName, avgPoint);
+                            group.AddStudent(student);
                         }
                         else Console.WriteLine("\n Grup doludur!\n");
                         break;

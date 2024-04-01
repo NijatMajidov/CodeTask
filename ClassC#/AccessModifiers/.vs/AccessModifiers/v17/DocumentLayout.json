@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\accessmodifiers\\accessmodifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\accessmodifiers\\accessmodifiers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\accessmodifiers\\accessmodifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB8E84D-45E3-41D5-B070-BEF7EC97890E}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:24:44.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Group.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Group.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Group.cs",
               "RelativeToolTip": "AccessModifiers\\Group.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAA5AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T14:39:55.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Student.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Student.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Student.cs",
               "RelativeToolTip": "AccessModifiers\\Student.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA7wB4AAABGAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T14:25:32.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Program.cs",
-              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\AccessModifiers\\AccessModifiers\\Program.cs",
-              "RelativeToolTip": "AccessModifiers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:24:44.307Z",
               "EditorCaption": ""
             }
           ]
