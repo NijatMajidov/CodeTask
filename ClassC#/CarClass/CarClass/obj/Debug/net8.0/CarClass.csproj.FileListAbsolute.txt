@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\bin\Debug\net8.0\CarClass.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\bin\Debug\net8.0\CarClass.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\bin\Debug\net8.0\CarClass.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\bin\Debug\net8.0\CarClass.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\bin\Debug\net8.0\CarClass.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\refint\CarClass.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\CarClass.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\CarClass\CarClass\obj\Debug\net8.0\ref\CarClass.dll
