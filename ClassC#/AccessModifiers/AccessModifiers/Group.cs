@@ -51,7 +51,7 @@ namespace AccessModifiers
             }
         }
 
-       /* public void FilteredGroup(string searchWord) 
+        public void FilteredGroup(string searchWord) 
         {
             for (int i = 0; i < Students.Length; i++)
             {
@@ -60,41 +60,9 @@ namespace AccessModifiers
                     Students[i].ShowInfo();
                 }      
             }
-        }*/
+        }
 
-        public void Filtered(string search)
-        {
-            for (int i = 0; i < Students.Length; i++)
-            {
-                bool found = false;
-
-                if (Students[i].FullName.Length >= search.Length)
-                {
-                    for (int j = 0; j <= Students[i].FullName.Length - search.Length; j++)
-                    {
-                        bool match = true;
-                        for (int k = 0; k < search.Length; k++)
-                        {
-                            if (char.ToLower(Students[i].FullName[j + k]) != char.ToLower(search[k]))
-                            {
-                                match = false;
-                                break;
-                            }
-                        }
-                        if (match)
-                        {
-                            found = true;
-                            break;
-                        }
-                    }
-
-                    if (found)
-                    {
-                        Students[i].ShowInfo();
-                    }
-
-                }
-            }
+       
         }
     }
 }

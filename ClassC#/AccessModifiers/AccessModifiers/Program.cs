@@ -70,7 +70,7 @@ namespace AccessModifiers
                     case "3":
                         Console.WriteLine("Axtarilan adi daxil edin: ");
                         string search = Console.ReadLine();
-                        group.Filtered(search); 
+                        group.FilteredGroup(search); 
                         break;
 
                     case "0":
