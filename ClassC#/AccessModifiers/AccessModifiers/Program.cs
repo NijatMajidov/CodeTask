@@ -24,6 +24,10 @@ namespace AccessModifiers
 
             Group group = new Group(no,limit);
 
+            Student first = new Student("Filankes Filankesov", 91);
+            Student second = new Student("Eli Veliyev", 51);
+            group.AddStudent(first);
+            group.AddStudent(second);
             string choice;
             bool check= true;
             do
@@ -62,10 +66,12 @@ namespace AccessModifiers
                     case "2":
                         group.ShowGroup();
                         break; 
+
                     case "3":
                         Console.WriteLine("Axtarilan adi daxil edin: ");
                         string search = Console.ReadLine();
-                        group.FilteredGroup(search); break;
+                        group.Filtered(search); 
+                        break;
 
                     case "0":
                         check = false;
