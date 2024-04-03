@@ -11,7 +11,8 @@ namespace AbstractCar
         public string Brand {  get; set; }
         public string Model { get; set; }
 
-        public int MaxSpeed { get; set; }
+        private int _speed;
+        public int MaxSpeed { get { return _speed; } set { if (value > 0) _speed = value; } }
 
         public Car(string brand, string model, int year):base(year)
         {
