@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\bin\Debug\net8.0\AbstractCar.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\bin\Debug\net8.0\AbstractCar.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\bin\Debug\net8.0\AbstractCar.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\bin\Debug\net8.0\AbstractCar.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\bin\Debug\net8.0\AbstractCar.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\refint\AbstractCar.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\AbstractCar.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\AbstractCar\AbstractCar\obj\Debug\net8.0\ref\AbstractCar.dll
