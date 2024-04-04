@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\classmanagment\\classmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|solutionrelative:classmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\classmanagment\\classmanagment\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|solutionrelative:classmanagment\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|c:\\users\\user\\desktop\\codetask\\classc#\\classmanagment\\classmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A287932B-D151-481D-99D2-FAD766536A2E}|ClassManagment\\ClassManagment.csproj|solutionrelative:classmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Group.cs",
+              "RelativeDocumentMoniker": "ClassManagment\\Group.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Group.cs",
+              "RelativeToolTip": "ClassManagment\\Group.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:46:57.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Student.cs",
+              "RelativeDocumentMoniker": "ClassManagment\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Student.cs",
+              "RelativeToolTip": "ClassManagment\\Student.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:41:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Program.cs",
+              "RelativeDocumentMoniker": "ClassManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CodeTask\\ClassC#\\ClassManagment\\ClassManagment\\Program.cs",
+              "RelativeToolTip": "ClassManagment\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwC8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:40:53.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
