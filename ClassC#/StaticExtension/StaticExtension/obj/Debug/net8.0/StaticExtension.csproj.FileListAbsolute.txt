@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\bin\Debug\net8.0\StaticExtension.exe
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\bin\Debug\net8.0\StaticExtension.deps.json
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\bin\Debug\net8.0\StaticExtension.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\bin\Debug\net8.0\StaticExtension.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\bin\Debug\net8.0\StaticExtension.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.sourcelink.json
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\refint\StaticExtension.dll
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.pdb
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\StaticExtension.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\ClassC#\StaticExtension\StaticExtension\obj\Debug\net8.0\ref\StaticExtension.dll
